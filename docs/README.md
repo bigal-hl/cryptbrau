@@ -62,7 +62,7 @@ var libEncryptor = require('cryptbrau')(
 | `Key` | string | `'ThisIsNotSecureEnough.'` | The encryption key |
 | `Salt` | string | `'0000000000000000'` | Additional salt concatenated with the key |
 
-The Key and Salt are concatenated to form the full encryption key. The combined string must be at least 16 characters — if shorter, it is padded automatically.
+The Key and Salt are concatenated to form the full encryption key. The combined string must be at least 16 characters -- if shorter, it is padded automatically.
 
 You can also pass a plain string instead of an options object. It will be used as the Key with the default Salt:
 
@@ -81,7 +81,7 @@ Cryptbrau uses AES-256-CBC encryption under the hood:
 5. A SHA-256 HMAC is prepended for integrity verification
 6. On decryption, the HMAC is verified before the message is decrypted
 
-This means you can encrypt any JSON-serializable value — strings, numbers, objects, and arrays all work:
+This means you can encrypt any JSON-serializable value -- strings, numbers, objects, and arrays all work:
 
 ```javascript
 // Encrypt an object

@@ -4,7 +4,7 @@
 
 ### cryptbrau(pOptions)
 
-Create an encryptor instance. The encryptor is lazily initialized — the underlying encryption engine is not created until the first call to `encrypt()` or `decrypt()`.
+Create an encryptor instance. The encryptor is lazily initialized -- the underlying encryption engine is not created until the first call to `encrypt()` or `decrypt()`.
 
 ```javascript
 var libEncryptor = require('cryptbrau')(pOptions);
@@ -14,7 +14,7 @@ var libEncryptor = require('cryptbrau')(pOptions);
 |-----------|------|-------------|
 | `pOptions` | object or string | Configuration object with Key and Salt, or a plain string used as the Key |
 
-**Returns:** `object` — An encryptor instance with `encrypt()` and `decrypt()` methods.
+**Returns:** `object` -- An encryptor instance with `encrypt()` and `decrypt()` methods.
 
 #### Options Object
 
@@ -33,13 +33,13 @@ The Key and Salt are concatenated to form `FullKey`. If `FullKey` is shorter tha
 
 ### encrypt(pMessage)
 
-Encrypt a message. The message can be any JSON-serializable value — strings, numbers, objects, or arrays.
+Encrypt a message. The message can be any JSON-serializable value -- strings, numbers, objects, or arrays.
 
 | Parameter | Type | Description |
 |-----------|------|-------------|
 | `pMessage` | any | The value to encrypt |
 
-**Returns:** `string` — Base64-encoded ciphertext with prepended HMAC and IV.
+**Returns:** `string` -- Base64-encoded ciphertext with prepended HMAC and IV.
 
 ```javascript
 var tmpEncrypted = libEncryptor.encrypt('secret message');
@@ -58,7 +58,7 @@ Decrypt a message previously encrypted with `encrypt()`. The HMAC is verified be
 |-----------|------|-------------|
 | `pMessage` | string | The encrypted string from `encrypt()` |
 
-**Returns:** `any | null` — The original value, or `null` if decryption fails.
+**Returns:** `any | null` -- The original value, or `null` if decryption fails.
 
 Decryption fails (returns `null`) when:
 - The key or salt does not match the one used to encrypt
@@ -69,7 +69,7 @@ Decryption fails (returns `null`) when:
 var tmpDecrypted = libEncryptor.decrypt(tmpEncrypted);
 if (tmpDecrypted === null)
 {
-	console.log('Decryption failed — wrong key or corrupted data');
+	console.log('Decryption failed -- wrong key or corrupted data');
 }
 ```
 
@@ -79,7 +79,7 @@ if (tmpDecrypted === null)
 
 Manually initialize the underlying simple-encryptor engine. This is called automatically on the first `encrypt()` or `decrypt()` call; you only need it if you want to force early initialization.
 
-**Returns:** `boolean` — Always returns `true`.
+**Returns:** `boolean` -- Always returns `true`.
 
 ---
 
