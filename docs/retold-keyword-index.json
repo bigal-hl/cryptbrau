@@ -1,6 +1,7 @@
 {
-	"Generated": "2026-04-10T17:23:51.919Z",
-	"DocumentCount": 0,
+	"Generated": "2026-05-22T05:42:24.323Z",
+	"Mode": "module",
+	"DocumentCount": 4,
 	"LunrIndex": {
 		"version": "2.3.9",
 		"fields": [
@@ -9,11 +10,2849 @@
 			"group",
 			"body"
 		],
-		"fieldVectors": [],
-		"invertedIndex": [],
+		"fieldVectors": [
+			[
+				"title/README.md",
+				[
+					0,
+					4.587
+				]
+			],
+			[
+				"module/README.md",
+				[
+					0,
+					2.106
+				]
+			],
+			[
+				"group/README.md",
+				[]
+			],
+			[
+				"body/README.md",
+				[
+					0,
+					0.672,
+					1,
+					0.446,
+					2,
+					0.605,
+					3,
+					0.671,
+					4,
+					0.867,
+					5,
+					0.569,
+					6,
+					1.051,
+					7,
+					0.605,
+					8,
+					0.446,
+					9,
+					0.605,
+					10,
+					0.605,
+					11,
+					0.521,
+					12,
+					0.602,
+					13,
+					0.446,
+					14,
+					0.521,
+					15,
+					0.521,
+					16,
+					0.605,
+					17,
+					0.521,
+					18,
+					0.521,
+					19,
+					0.605,
+					20,
+					0.626,
+					21,
+					1.505,
+					22,
+					1.051,
+					23,
+					0.569,
+					24,
+					1.051,
+					25,
+					1.051,
+					26,
+					0.605,
+					27,
+					0.605,
+					28,
+					0.605,
+					29,
+					0.605,
+					30,
+					1.051,
+					31,
+					0.605,
+					32,
+					1.051,
+					33,
+					0.867,
+					34,
+					1.505,
+					35,
+					0.689,
+					36,
+					0.602,
+					37,
+					0.311,
+					38,
+					0.605,
+					39,
+					1.417,
+					40,
+					0.867,
+					41,
+					0.605,
+					42,
+					0.867,
+					43,
+					0.605,
+					44,
+					0.626,
+					45,
+					1.051,
+					46,
+					1.012,
+					47,
+					0.605,
+					48,
+					1.758,
+					49,
+					1.051,
+					50,
+					0.867,
+					51,
+					0.605,
+					52,
+					0.605,
+					53,
+					0.605,
+					54,
+					0.605,
+					55,
+					0.605,
+					56,
+					1.505,
+					57,
+					0.446,
+					58,
+					0.867,
+					59,
+					1.051,
+					60,
+					1.051,
+					61,
+					0.605,
+					62,
+					0.605,
+					63,
+					0.605,
+					64,
+					0.605,
+					65,
+					0.605,
+					66,
+					1.051,
+					67,
+					0.605,
+					68,
+					0.605,
+					69,
+					0.605,
+					70,
+					0.867,
+					71,
+					0.867,
+					72,
+					1.051,
+					73,
+					0.605,
+					74,
+					0.605,
+					75,
+					0.605,
+					76,
+					0.605,
+					77,
+					0.311,
+					78,
+					0.521,
+					79,
+					0.605,
+					80,
+					0.605,
+					81,
+					1.051,
+					82,
+					0.605,
+					83,
+					0.605,
+					84,
+					0.605,
+					85,
+					0.605,
+					86,
+					0.605,
+					87,
+					1.051,
+					88,
+					0.311,
+					89,
+					1.051,
+					90,
+					0.605,
+					91,
+					1.051,
+					92,
+					1.051,
+					93,
+					1.051,
+					94,
+					0.605,
+					95,
+					1.051,
+					96,
+					1.051,
+					97,
+					1.051,
+					98,
+					1.505,
+					99,
+					0.605,
+					100,
+					1.051,
+					101,
+					1.051,
+					102,
+					1.051,
+					103,
+					0.076,
+					104,
+					0.076,
+					105,
+					0.605,
+					106,
+					0.605,
+					107,
+					1.051,
+					108,
+					1.051,
+					109,
+					1.505,
+					110,
+					1.051,
+					111,
+					1.051,
+					112,
+					1.051,
+					113,
+					1.051
+				]
+			],
+			[
+				"title/_cover.md",
+				[
+					0,
+					4.587
+				]
+			],
+			[
+				"module/_cover.md",
+				[
+					0,
+					2.106
+				]
+			],
+			[
+				"group/_cover.md",
+				[]
+			],
+			[
+				"body/_cover.md",
+				[
+					0,
+					0.685,
+					1,
+					0.58,
+					2,
+					1.128,
+					3,
+					0.667,
+					4,
+					0.895,
+					5,
+					0.635,
+					7,
+					0.895,
+					8,
+					0.58,
+					9,
+					0.895,
+					10,
+					0.895,
+					11,
+					0.46,
+					12,
+					0.58,
+					13,
+					0.46,
+					14,
+					0.46,
+					15,
+					0.58,
+					16,
+					1.128,
+					17,
+					0.46,
+					18,
+					0.46,
+					19,
+					1.128,
+					20,
+					0.58,
+					23,
+					0.58,
+					26,
+					0.895,
+					27,
+					0.895,
+					28,
+					0.895,
+					29,
+					0.895,
+					35,
+					0.635,
+					36,
+					0.46,
+					37,
+					0.46,
+					44,
+					0.46,
+					57,
+					0.46,
+					58,
+					0.895,
+					77,
+					0.46,
+					78,
+					0.58,
+					88,
+					0.46,
+					94,
+					0.895,
+					99,
+					0.895,
+					103,
+					0.112,
+					104,
+					0.112,
+					114,
+					1.554,
+					115,
+					1.554,
+					116,
+					0.895,
+					117,
+					1.554,
+					118,
+					1.554,
+					119,
+					0.895,
+					120,
+					1.554,
+					121,
+					1.554,
+					122,
+					1.554,
+					123,
+					1.554,
+					124,
+					0.895,
+					125,
+					1.554,
+					126,
+					1.554,
+					127,
+					0.895
+				]
+			],
+			[
+				"title/_topbar.md",
+				[
+					0,
+					4.587
+				]
+			],
+			[
+				"module/_topbar.md",
+				[
+					0,
+					2.106
+				]
+			],
+			[
+				"group/_topbar.md",
+				[]
+			],
+			[
+				"body/_topbar.md",
+				[
+					0,
+					0.697,
+					103,
+					0.144,
+					104,
+					0.144,
+					127,
+					1.148,
+					128,
+					1.993
+				]
+			],
+			[
+				"title/api.md",
+				[
+					103,
+					0.699,
+					104,
+					0.699
+				]
+			],
+			[
+				"module/api.md",
+				[
+					0,
+					2.106
+				]
+			],
+			[
+				"group/api.md",
+				[]
+			],
+			[
+				"body/api.md",
+				[
+					1,
+					0.242,
+					3,
+					0.661,
+					5,
+					0.242,
+					8,
+					0.571,
+					11,
+					0.242,
+					12,
+					0.449,
+					13,
+					0.242,
+					14,
+					0.369,
+					15,
+					0.502,
+					17,
+					0.242,
+					18,
+					0.242,
+					20,
+					0.242,
+					23,
+					0.502,
+					31,
+					0.47,
+					33,
+					0.718,
+					35,
+					0.628,
+					36,
+					0.571,
+					37,
+					0.369,
+					38,
+					1.109,
+					39,
+					1.494,
+					40,
+					0.718,
+					41,
+					1.109,
+					42,
+					0.718,
+					43,
+					1.052,
+					44,
+					0.661,
+					46,
+					0.718,
+					47,
+					0.47,
+					50,
+					0.872,
+					51,
+					0.47,
+					52,
+					0.47,
+					53,
+					0.718,
+					54,
+					0.47,
+					55,
+					0.47,
+					57,
+					0.502,
+					61,
+					0.718,
+					62,
+					0.47,
+					63,
+					0.718,
+					64,
+					0.47,
+					65,
+					0.976,
+					67,
+					0.872,
+					68,
+					0.47,
+					69,
+					0.47,
+					70,
+					0.976,
+					71,
+					0.47,
+					73,
+					0.718,
+					74,
+					0.718,
+					75,
+					0.47,
+					76,
+					0.47,
+					77,
+					0.242,
+					78,
+					0.502,
+					79,
+					0.47,
+					80,
+					0.718,
+					82,
+					0.47,
+					83,
+					1.052,
+					84,
+					0.47,
+					85,
+					0.47,
+					86,
+					0.718,
+					88,
+					0.369,
+					90,
+					1.109,
+					103,
+					0.059,
+					104,
+					0.059,
+					105,
+					0.718,
+					106,
+					0.47,
+					116,
+					0.47,
+					119,
+					0.47,
+					124,
+					0.872,
+					129,
+					1.247,
+					130,
+					1.247,
+					131,
+					0.816,
+					132,
+					0.816,
+					133,
+					1.514,
+					134,
+					1.247,
+					135,
+					1.247,
+					136,
+					1.827,
+					137,
+					1.514,
+					138,
+					1.696,
+					139,
+					0.816,
+					140,
+					0.816,
+					141,
+					1.514,
+					142,
+					0.816,
+					143,
+					0.816,
+					144,
+					0.816,
+					145,
+					0.816,
+					146,
+					0.816,
+					147,
+					0.816,
+					148,
+					0.816,
+					149,
+					0.816,
+					150,
+					0.816,
+					151,
+					0.816,
+					152,
+					0.816,
+					153,
+					0.816,
+					154,
+					0.816,
+					155,
+					0.816,
+					156,
+					0.816,
+					157,
+					0.816,
+					158,
+					0.816,
+					159,
+					0.816,
+					160,
+					0.816,
+					161,
+					0.816,
+					162,
+					0.816,
+					163,
+					0.816,
+					164,
+					0.816,
+					165,
+					0.816,
+					166,
+					0.816,
+					167,
+					0.816,
+					168,
+					0.816,
+					169,
+					0.816
+				]
+			]
+		],
+		"invertedIndex": [
+			[
+				"",
+				{
+					"_index": 39,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"16",
+				{
+					"_index": 50,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"256",
+				{
+					"_index": 12,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"addit",
+				{
+					"_index": 45,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"ae",
+				{
+					"_index": 11,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"algorithm",
+				{
+					"_index": 164,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"alway",
+				{
+					"_index": 159,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"api",
+				{
+					"_index": 103,
+					"title": {
+						"api.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"applic",
+				{
+					"_index": 114,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"array",
+				{
+					"_index": 85,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"authent",
+				{
+					"_index": 16,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"automat",
+				{
+					"_index": 54,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"avail",
+				{
+					"_index": 163,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"base64",
+				{
+					"_index": 73,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"befor",
+				{
+					"_index": 80,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"browser",
+				{
+					"_index": 5,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"browserifi",
+				{
+					"_index": 19,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"build",
+				{
+					"_index": 93,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"built",
+				{
+					"_index": 18,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"bundl",
+				{
+					"_index": 20,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"byte",
+				{
+					"_index": 64,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"call",
+				{
+					"_index": 136,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"cbc",
+				{
+					"_index": 13,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"chang",
+				{
+					"_index": 96,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"char",
+				{
+					"_index": 161,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"charact",
+				{
+					"_index": 51,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"ciphertext",
+				{
+					"_index": 141,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"combin",
+				{
+					"_index": 49,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"concaten",
+				{
+					"_index": 46,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"configur",
+				{
+					"_index": 33,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"construct",
+				{
+					"_index": 125,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"constructor",
+				{
+					"_index": 32,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"core",
+				{
+					"_index": 112,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"creat",
+				{
+					"_index": 37,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"cryptbrau",
+				{
+					"_index": 0,
+					"title": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {}
+					},
+					"module": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {}
+					},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {}
+					}
+				}
+			],
+			[
+				"cryptbrau(popt",
+				{
+					"_index": 131,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"data",
+				{
+					"_index": 89,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"decrypt",
+				{
+					"_index": 78,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"decrypt(pmessag",
+				{
+					"_index": 146,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"default",
+				{
+					"_index": 42,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"depend",
+				{
+					"_index": 98,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"deriv",
+				{
+					"_index": 165,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"descript",
+				{
+					"_index": 43,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"detail",
+				{
+					"_index": 106,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"detect",
+				{
+					"_index": 148,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"differ",
+				{
+					"_index": 145,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"direct",
+				{
+					"_index": 22,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"directli",
+				{
+					"_index": 120,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"each",
+				{
+					"_index": 69,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"earli",
+				{
+					"_index": 158,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"encod",
+				{
+					"_index": 74,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"encrypt",
+				{
+					"_index": 3,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"encrypt(pmessag",
+				{
+					"_index": 140,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"encryptor",
+				{
+					"_index": 8,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"engin",
+				{
+					"_index": 134,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"environ",
+				{
+					"_index": 6,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"error",
+				{
+					"_index": 92,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"exchang",
+				{
+					"_index": 118,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"expos",
+				{
+					"_index": 30,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"fabl",
+				{
+					"_index": 111,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"factori",
+				{
+					"_index": 129,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"fail",
+				{
+					"_index": 86,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"file",
+				{
+					"_index": 100,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"first",
+				{
+					"_index": 124,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"forc",
+				{
+					"_index": 157,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"form",
+				{
+					"_index": 47,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"format",
+				{
+					"_index": 169,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"framework",
+				{
+					"_index": 109,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"full",
+				{
+					"_index": 48,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"fullkey",
+				{
+					"_index": 166,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"function",
+				{
+					"_index": 130,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"gener",
+				{
+					"_index": 68,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"github",
+				{
+					"_index": 127,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"_topbar.md": {}
+					}
+				}
+			],
+			[
+				"global",
+				{
+					"_index": 31,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"hash",
+				{
+					"_index": 61,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"hmac",
+				{
+					"_index": 15,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"hood",
+				{
+					"_index": 60,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"includ",
+				{
+					"_index": 21,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"init",
+				{
+					"_index": 123,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"initi",
+				{
+					"_index": 65,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"initializeencryptor",
+				{
+					"_index": 154,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"inject",
+				{
+					"_index": 113,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"input",
+				{
+					"_index": 152,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"instanc",
+				{
+					"_index": 38,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"instead",
+				{
+					"_index": 56,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"integr",
+				{
+					"_index": 76,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"iv",
+				{
+					"_index": 67,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"json",
+				{
+					"_index": 71,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"key",
+				{
+					"_index": 35,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"lazi",
+				{
+					"_index": 122,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"lazili",
+				{
+					"_index": 132,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"learn",
+				{
+					"_index": 101,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"librari",
+				{
+					"_index": 9,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"manual",
+				{
+					"_index": 155,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"match",
+				{
+					"_index": 150,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"mean",
+				{
+					"_index": 81,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"messag",
+				{
+					"_index": 70,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"method",
+				{
+					"_index": 105,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"mismatch",
+				{
+					"_index": 151,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"more",
+				{
+					"_index": 102,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"mvc",
+				{
+					"_index": 108,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"need",
+				{
+					"_index": 119,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"new",
+				{
+					"_index": 142,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"node.j",
+				{
+					"_index": 4,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"number",
+				{
+					"_index": 84,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"object",
+				{
+					"_index": 57,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"on",
+				{
+					"_index": 116,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"option",
+				{
+					"_index": 40,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"origin",
+				{
+					"_index": 149,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"output",
+				{
+					"_index": 168,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"overview",
+				{
+					"_index": 128,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_topbar.md": {}
+					}
+				}
+			],
+			[
+				"pad",
+				{
+					"_index": 53,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"page",
+				{
+					"_index": 25,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"paramet",
+				{
+					"_index": 137,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"pass",
+				{
+					"_index": 34,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"per",
+				{
+					"_index": 167,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"pict",
+				{
+					"_index": 107,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"plain",
+				{
+					"_index": 55,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"pre",
+				{
+					"_index": 17,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"prepend",
+				{
+					"_index": 75,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"prevent",
+				{
+					"_index": 121,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"previous",
+				{
+					"_index": 147,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"produc",
+				{
+					"_index": 62,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"properti",
+				{
+					"_index": 138,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"provid",
+				{
+					"_index": 10,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"quick",
+				{
+					"_index": 26,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"random",
+				{
+					"_index": 63,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"readi",
+				{
+					"_index": 94,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"rebuild",
+				{
+					"_index": 95,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"refer",
+				{
+					"_index": 104,
+					"title": {
+						"api.md": {}
+					},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"_topbar.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"resolv",
+				{
+					"_index": 160,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"return",
+				{
+					"_index": 90,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"run",
+				{
+					"_index": 97,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"salt",
+				{
+					"_index": 36,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"same",
+				{
+					"_index": 143,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"script",
+				{
+					"_index": 28,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"serial",
+				{
+					"_index": 72,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"serializ",
+				{
+					"_index": 82,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"sha",
+				{
+					"_index": 14,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"share",
+				{
+					"_index": 117,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"shorter",
+				{
+					"_index": 52,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"simpl",
+				{
+					"_index": 1,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"singl",
+				{
+					"_index": 99,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"start",
+				{
+					"_index": 27,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"string",
+				{
+					"_index": 44,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"support",
+				{
+					"_index": 110,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"symmetr",
+				{
+					"_index": 2,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"tag",
+				{
+					"_index": 29,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"tamper",
+				{
+					"_index": 88,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"throw",
+				{
+					"_index": 91,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"time",
+				{
+					"_index": 126,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"trigger",
+				{
+					"_index": 162,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"twice",
+				{
+					"_index": 144,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"type",
+				{
+					"_index": 41,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"under",
+				{
+					"_index": 59,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"underli",
+				{
+					"_index": 133,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"until",
+				{
+					"_index": 135,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"us",
+				{
+					"_index": 23,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"valid",
+				{
+					"_index": 153,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"valu",
+				{
+					"_index": 83,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"vector",
+				{
+					"_index": 66,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"verif",
+				{
+					"_index": 77,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"verifi",
+				{
+					"_index": 79,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"via",
+				{
+					"_index": 115,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"want",
+				{
+					"_index": 156,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			],
+			[
+				"web",
+				{
+					"_index": 24,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"work",
+				{
+					"_index": 58,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"wrap",
+				{
+					"_index": 7,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {},
+						"_cover.md": {}
+					}
+				}
+			],
+			[
+				"wrong",
+				{
+					"_index": 87,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"README.md": {}
+					}
+				}
+			],
+			[
+				"zero",
+				{
+					"_index": 139,
+					"title": {},
+					"module": {},
+					"group": {},
+					"body": {
+						"api.md": {}
+					}
+				}
+			]
+		],
 		"pipeline": [
 			"stemmer"
 		]
 	},
-	"Documents": {}
+	"Documents": {
+		"README.md": {
+			"Title": "Cryptbrau",
+			"Module": "cryptbrau",
+			"Group": "",
+			"DocPath": "README.md"
+		},
+		"_cover.md": {
+			"Title": "Cryptbrau",
+			"Module": "cryptbrau",
+			"Group": "",
+			"DocPath": "_cover.md"
+		},
+		"_topbar.md": {
+			"Title": "Cryptbrau",
+			"Module": "cryptbrau",
+			"Group": "",
+			"DocPath": "_topbar.md"
+		},
+		"api.md": {
+			"Title": "API Reference",
+			"Module": "cryptbrau",
+			"Group": "",
+			"DocPath": "api.md"
+		}
+	}
 }
