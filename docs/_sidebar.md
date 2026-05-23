@@ -8,7 +8,7 @@
 
 - Retold Ecosystem
 
-  - [Pict](/pict/pict/)
-  - [Pict Application](/pict/pict-application/)
-  - [Fable](/fable/fable/)
-  - [Indoctrinate](/utility/indoctrinate/)
+  - [Pict](https://stevenvelozo.github.io/pict/)
+  - [Pict Application](https://stevenvelozo.github.io/pict-application/)
+  - [Fable](https://stevenvelozo.github.io/fable/)
+  - [Indoctrinate](https://stevenvelozo.github.io/indoctrinate/)
