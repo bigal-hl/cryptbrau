@@ -11,4 +11,4 @@ Encrypt and decrypt strings or objects with a single Key and Salt. Cryptbrau wra
 
 [Quick Start](README.md)
 [API Reference](api.md)
-[GitHub](https://github.com/stevenvelozo/cryptbrau)
+[GitHub](https://github.com/fable-retold/cryptbrau)

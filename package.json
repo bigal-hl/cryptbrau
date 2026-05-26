@@ -13,9 +13,9 @@
   "author": "steven velozo <steven@velozo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stevenvelozo/cryptbrau/issues"
+    "url": "https://github.com/fable-retold/cryptbrau/issues"
   },
-  "homepage": "https://github.com/stevenvelozo/cryptbrau#readme",
+  "homepage": "https://github.com/fable-retold/cryptbrau#readme",
   "dependencies": {
     "simple-encryptor": "^1.1.0"
   },

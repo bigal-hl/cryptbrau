@@ -106,5 +106,5 @@ This runs `browserify browser.js -o lib/cryptbrau.js` to bundle all dependencies
 ## Learn More
 
 - [API Reference](api.md) -- Method and configuration details
-- [Pict](https://stevenvelozo.github.io/pict/) -- The MVC framework Cryptbrau supports
-- [Fable](https://stevenvelozo.github.io/fable/) -- The core dependency injection framework
+- [Pict](https://fable-retold.github.io/pict/) -- The MVC framework Cryptbrau supports
+- [Fable](https://fable-retold.github.io/fable/) -- The core dependency injection framework
