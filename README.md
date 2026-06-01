@@ -1,6 +1,6 @@
 # CryptBrau
 
-> **[&#9654; Read the Cryptbrau Documentation](https://fable-retold.github.io/cryptbrau/)** &mdash; interactive docs with the full API reference.
+> **[Read the Cryptbrau Documentation](https://fable-retold.github.io/cryptbrau/)** - interactive docs with the full API reference.
 
 Simple symmetric encryption for Node.js and the browser. Wraps the [simple-encryptor](https://www.npmjs.com/package/simple-encryptor) library with a key+salt configuration pattern and lazy encryptor initialization.
 
