@@ -4,8 +4,7 @@
 
 Simple symmetric encryption for Node.js and the browser. Wraps the [simple-encryptor](https://www.npmjs.com/package/simple-encryptor) library with a key+salt configuration pattern and lazy encryptor initialization.
 
-[![npm version](https://badge.fury.io/js/cryptbrau.svg)](https://badge.fury.io/js/cryptbrau)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[cryptbrau on npm](https://www.npmjs.com/package/cryptbrau) | [MIT License](LICENSE)
 
 ---
 
